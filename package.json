@@ -1,0 +1,24 @@
+{
+  "name": "land_page",
+  "version": "1.0.0",
+  "description": "This is project My Land_Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnet007/Land_Page.git"
+  },
+  "author": "Vladimir_D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnet007/Land_Page/issues"
+  },
+  "homepage": "https://github.com/nnet007/Land_Page#readme",
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0"
+  },
+  "dependencies": {},
+  "optionalDependencies": {}
+}
